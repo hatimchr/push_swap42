@@ -6,11 +6,11 @@
 /*   By: hchair <hchair@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/17 15:29:05 by hchair            #+#    #+#             */
-/*   Updated: 2024/07/03 22:20:20 by hchair           ###   ########.fr       */
+/*   Updated: 2024/07/05 04:12:15 by hchair           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../so_long.h"
+#include "push_swap.h"
 
 int	ft_putchar(char c)
 {

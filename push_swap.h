@@ -6,7 +6,7 @@
 /*   By: hchair <hchair@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/07/04 00:08:25 by hchair            #+#    #+#             */
-/*   Updated: 2024/07/04 07:02:18 by hchair           ###   ########.fr       */
+/*   Updated: 2024/07/05 09:37:27 by hchair           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,5 +20,6 @@
 # include <stdarg.h>
 
 char	**ft_split(char**s, char c);
+int	ft_printf(const char *src, ...);
 
 #endif
